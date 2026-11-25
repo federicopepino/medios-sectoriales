@@ -11,14 +11,12 @@ Cuatro diarios digitales que cubren la minería, la energía, el campo y la lech
 
 ![El Gran Minero](capturas/el-gran-minero.jpg)
 
-Noticias del sector con enlace a la nota original, precios de metales, el mapa de 903 proyectos mineros de 15 provincias, el seguimiento de los proyectos con RIGI, normativa, agenda, foro y directorio de empresas.
+Noticias del sector con enlace a la nota original, precios de metales, el mapa de 903 proyectos mineros de 15 provincias, el seguimiento de los proyectos con RIGI, normativa, agenda y foro.
 
 ## El Gran Energético
 **[el-gran-energetico.pages.dev](https://el-gran-energetico.pages.dev)** · Petróleo, gas y Vaca Muerta
 
-![El Gran Energético](capturas/el-gran-energetico.jpg)
-
-Noticias de petróleo, gas y minería, precios de WTI, gas natural y metales, proyectos, normativa, foro y directorio.
+Noticias de petróleo, gas y minería, precios de WTI, gas natural y metales, proyectos, normativa y foro.
 
 ## El Gran Ganadero
 **[el-gran-ganadero.pages.dev](https://el-gran-ganadero.pages.dev)** · Granos, hacienda y remates
@@ -32,7 +30,7 @@ Precios de granos y hacienda, calculadora, remates, agenda del sector y foro.
 
 ![La Cuenca Láctea](capturas/la-cuenca-lactea.jpg)
 
-Precio de la leche al productor (SIGLeA), cotizaciones, noticias por provincia, calculadora y directorio.
+Precio de la leche al productor (SIGLeA), cotizaciones, noticias por provincia y calculadora.
 
 ---
 
